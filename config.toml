@@ -48,7 +48,7 @@ googleAnalytics = ""
     brand = "Clean Government New Jersey"
     # Optional logo as brand stored in img/
     logo = "logo.svg"
-    services = "Services"
+    services = "Our Values"
     portfolio = "Portfolio"
     about = "About"
     team = "Team"
@@ -83,27 +83,27 @@ googleAnalytics = ""
   # Services section
   [params.services]
     enable = true
-    title = "Services"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "Our Values"
+    subtitle = "What we believe in and fight for"
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
-      title = "E-Commerce"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "eye"
+      title = "Transparency"
+      description = "State and local government must operate in a way that preserves the public trust. The records of government agencies should be readily available in compliance with OPRA."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Responsive Design"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "compass"
+      title = "Ethics In Government"
+      description = "Decisions affecting the public should be made in an ethical manner."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-lock"
-      title = "Web"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "comments-o"
+      title = "Public Participation"
+      description = "We are all better off when more citizens participate and understand the workings of government."
       url = "#"
 
   # Portfolio section
