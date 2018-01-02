@@ -75,7 +75,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "New Jersey needs to ensure"
+    title = "New Jersey needs"
     subtitle = "Clean Government"
     buttonText = "We can't afford not to"
 
@@ -172,14 +172,12 @@ googleAnalytics = ""
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
       img = "1.jpg"
-      name = "Kay Garland"
+      name = "Gavin Rozzi"
       position = "Lead Designer"
       reportsTo = "CTO"
-      livesIn = "[Munich, Germany](#some-maps-url)"
+      livesIn = "[Lacey, NJ](#some-maps-url)"
       scope = [
         "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
       ]
       # For bio markdown and even multiline strings are available.
       bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
